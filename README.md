@@ -12,7 +12,7 @@
 <p>Todos nós já passamos pelo problema de ter muito material de estudo e não conseguir definir um passo a passo e/ou acompanhar o quanto do material ja foi estudado. :cry:</p>
 Com esse aplicativo, esse problema acaba. :heart_eyes:
 
-## Stacks Utilizadas
+## Stacks Utilizadas 
 - TypeScript 
 - Node.js
 - Docker
